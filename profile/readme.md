@@ -1,45 +1,36 @@
-# Welcome to Chillboio Studios!
+# Welcome to Chillboio Studios! 🎮
 
-We make game, platforms, stores, moderation tools, and MORE!
+We build games, platforms, digital stores, moderation tools, and more!
 
-And sometimes we use OSS/FOSS softwear and we want to be able to contribute back.
+We believe strongly in open-source development. Whenever we use OSS/FOSS, we strive to contribute back to the community. This space is dedicated to our open-source tools, projects, and the mirrors/forks we maintain. Open source is worth preserving—it keeps code accessible forever and helps aspiring developers learn by reading real, working code from projects they know and love.
 
-Here is where we will put our OSS/FOSS softwear that we make or forks/mirrors that we maintain; Because OSS/FOSS is something to keep around forever, it helps people get into coding because they can see working projects, some of which they have used before.
+---
 
+## 🛠️ What We Do
 
-## What do we do?
-We are currently in the process of making:
-- SecondDawnVR
-- DawnChat
+### 🚀 Currently in Development
+- **SecondDawnVR**
+- **DawnChat**
 
-We are currently maintaining and Providing:
-- CreatorPlaza
-- BeSafe Network
+### 📦 Actively Maintained & Provided
+- **CreatorPlaza**
+- **BeSafe Network**
 
+---
 
-# We are Chillboio Studios!
-## Staff Team
+## 👥 The Chillboio Studios Team
 
 ### Ownership
-Owner      - FTTristan
+- **Owner:** FTTristan
+- **Co-Owner:** GlamrockBonnieR
+- **Co-Owner:** FNAF_Rainbow
+- **Co-Owner:** Loona~Buckzo
 
-Co-Owner   - GlamrockBonnieR
-
-Co-Owner   - FNAF_Rainbow
-
-Co-Owner   - Loona~Buckzo
-
-
-### Managers
-Manager    - That0neRandomDino
-
+### Management
+- **Manager:** That0neRandomDino
 
 ### Moderation Team
-Moderator  - ZanaSpooky
-
-Moderator  - Hellwolf
-
-Moderator  - GSam
-
-Moderator  - GlamFreddy_VRC
-
+- **Moderator:** ZanaSpooky
+- **Moderator:** Hellwolf
+- **Moderator:** GSam
+- **Moderator:** GlamFreddy_VRC
